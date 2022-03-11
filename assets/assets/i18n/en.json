@@ -56,6 +56,7 @@
 		"n": "Stock symbol or name, like AAPL",
 		"o": "Markets Overview",
 		"p": "Potential Invest Opportunities",
+		"r": "Slide to switch ASX or US",
 		"tabs": {
 			"a": "Overviews and News",
 			"b": "Technical Analysis",
