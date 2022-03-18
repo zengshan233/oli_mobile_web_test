@@ -20,8 +20,7 @@
 		"a": "Home",
 		"b": "Research",
 		"c": "Markets",
-		"d": "Me",
-		"e": "Video"
+		"d": "Me"
 	},
 	"home": {
 		"a": "Oli View",
@@ -57,12 +56,14 @@
 		"o": "Markets Overview",
 		"p": "Potential Invest Opportunities",
 		"r": "Slide to switch ASX or US",
+		"s": "Click the menu to discover more",
 		"tabs": {
 			"a": "Overviews and News",
 			"b": "Technical Analysis",
 			"c": "Bear vs Bull",
 			"d": "Analyst Ratings",
-			"e": "Insiders and Owners"
+			"e": "Owners and Insiders",
+			"f": "Daily Gross Short Sales"
 		},
 		"date": {
 			"a": "Yesterday",
@@ -170,6 +171,12 @@
 			"f": "Volume",
 			"g": "Share",
 			"h": "Percent"
+		},
+		"sale": {
+			"a": "Date",
+			"b": "Gross Short Sales(a)",
+			"c": "Issued Capital(b)",
+			"d": "Percentage(a/b)"
 		}
 	},
 	"mine": {
@@ -191,7 +198,17 @@
 			"e": "Password",
 			"f": "Forget Password?",
 			"g": "Sign Up",
-			"h": "Login"
+			"h": "Login",
+			"i":"Phone",
+			"j":"Phone Number",
+			"titles":{
+				"a":"Email Login",
+				"b":"Phone Login",
+				"c":"Email Registration",
+				"d":"Phone Registration",
+				"e":"Email Reset",
+				"f":"Phone Reset"
+			  }
 		},
 		"register": {
 			"a": "Name",
@@ -257,12 +274,13 @@
 		},
 		"subscribe": {
 			"a": "Subscription",
-			"b": "Unlimited Equity Reports",
-			"c": "Unlimited Industry Reports",
-			"d": "Unlimited Weekly Reports",
+			"b": "Videos for Subscribed Users Only",
+			"c": "Unlimited Equity Reports",
+			"d": "Unlimited Industry/Weekly Reports",
 			"e": "Talk with Analyst One-on-One",
-			"f": "Technical Analysis and Chart Patterns",
-			"g": "Fundamental Analysis",
+			"f": "Comprehensive Fundmental Analysis",
+			"g": "Unlimited Technical Analysis Tools",
+			"g2": "Recommendations from Analysts",
 			"h": "Your subscription expires on {value}",
 			"i": "《Terms and Conditions》",
 			"j": "Subscribe",
@@ -281,7 +299,9 @@
 			"x": "You need to accept the agreement first",
 			"y": "You must cancel your current subscription first",
 			"z": "Payment record not found",
-			"a1": "Stop auto renewals"
+			"a1": "Stop auto renewals",
+			"b2": "Subscription will be automatically renewed. Cancel at anytime in Settings - Subscriptions at least one day before renewal date.",
+			"c2": "Please select one subscription product"
 		}
 	},
 	"meta": {
