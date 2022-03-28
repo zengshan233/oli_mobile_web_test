@@ -14,13 +14,16 @@
 		"m": "Customer Service",
 		"n": "Say something",
 		"o": "Enter the keyword",
-		"p": "Download app to enjoy customer service"
+		"p": "Download app to enjoy customer service",
+		"r": "Got it",
+		"s": "See More"
 	},
 	"navigator": {
 		"a": "Home",
 		"b": "Research",
 		"c": "Markets",
-		"d": "Me"
+		"d": "Me",
+		"e": "Video"
 	},
 	"home": {
 		"a": "Oli View",
@@ -57,6 +60,11 @@
 		"p": "Potential Invest Opportunities",
 		"r": "Slide to switch ASX or US",
 		"s": "Click the menu to discover more",
+		"t": "Risk Warning: potential opportunities of stocks calculated by algorithms and this is not investment advice. ",
+		"u": "Research information is only available to subscribed users",
+		"v": "Subscribe",
+		"w": "Click the button to find more research about potential invest opportunities",
+		"x":"Go",
 		"tabs": {
 			"a": "Overviews and News",
 			"b": "Technical Analysis",
@@ -82,11 +90,12 @@
 		},
 		"menu": {
 			"a": "Markets",
-			"b": "Economic Calendar",
+			"b": "Potential Opportunities",
 			"c": "Recent Patterns",
-			"d": "Watchlist",
+			"d": "Economic Calendar",
 			"e": "IPO Calendar",
-			"f": "Precious Metal"
+			"f": "Watchlist",
+			"g": "Precious Metal"
 		},
 		"stock": {
 			"a": "Financial Summaries",
@@ -199,16 +208,16 @@
 			"f": "Forget Password?",
 			"g": "Sign Up",
 			"h": "Login",
-			"i":"Phone",
-			"j":"Phone Number",
-			"titles":{
-				"a":"Email Login",
-				"b":"Phone Login",
-				"c":"Email Registration",
-				"d":"Phone Registration",
-				"e":"Email Reset",
-				"f":"Phone Reset"
-			  }
+			"i": "Phone",
+			"j": "Phone Number",
+			"titles": {
+				"a": "Email Login",
+				"b": "Phone Login",
+				"c": "Email Registration",
+				"d": "Phone Registration",
+				"e": "Email Reset",
+				"f": "Phone Reset"
+			}
 		},
 		"register": {
 			"a": "Name",
@@ -301,7 +310,8 @@
 			"z": "Payment record not found",
 			"a1": "Stop auto renewals",
 			"b2": "Subscription will be automatically renewed. Cancel at anytime in Settings - Subscriptions at least one day before renewal date.",
-			"c2": "Please select one subscription product"
+			"c2": "Please select one subscription product",
+			"d2":"Please change your 'Apple Id' to subscribe"
 		}
 	},
 	"meta": {
